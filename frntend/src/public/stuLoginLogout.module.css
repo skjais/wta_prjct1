@@ -1,0 +1,28 @@
+.loginsection {
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.57);
+    ;
+}
+
+.loginsection button {
+    height: 50px;
+    /* width: 200px; */
+    /* float: right; #ed3330 */
+    /* margin-right: 40px; */
+    background-color: rgba(36, 37, 44, 0.89);
+    color: white;
+    padding: 15px 50px;
+    /* display: inline-block; */
+    float: right;
+    transition: all 0.4s ease 0s;
+    margin: 2px;
+}
+
+.loginsection button:hover {
+    background: #434343;
+    letter-spacing: 5px;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+    box-shadow: 5px 40px -10px rgba(0, 0, 0, 0.57);
+    transition: all 0.4s ease 0s;
+}
