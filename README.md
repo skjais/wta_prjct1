@@ -1,7 +1,8 @@
 # wta_prjct1
 TO RUN THIS CODE YOU NEED TO INSTALL 
- nodejs
- npm 
- reactjs
- mysql
- THIS 
+ nodejs,
+ npm ,
+ reactjs,
+ mysql,
+ THIS PROJECT DO NOT CONTAINS THE NODE_MODULE FILE
+ SO YOU NEED TO INSTALL THE NODE_MODULE FILE
